@@ -1,7 +1,7 @@
 # Motion Planning and Decision Making for Autonomous Vehicles
 
-Self-Driving Car Engineer Nanodegree
-https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013
+**Self-Driving Car Engineer Nanodegree<br/>
+https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013**
 
 ## Demo
 
