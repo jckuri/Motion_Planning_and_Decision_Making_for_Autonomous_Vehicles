@@ -1,6 +1,8 @@
-# Purpose of This Repo
+# Motion Planning and Decision Making for Autonomous Vehicles
 
-This repository contains the starter code to launch in the SDC Planning course workspace. 
+## Demo
 
-
+**Motion Planning and Decision Making for Autonomous Vehicles \[SDC ND\]<br/>
+https://youtu.be/wKUuJzCgHls**
+![images/demo.png](images/demo.png)
 
